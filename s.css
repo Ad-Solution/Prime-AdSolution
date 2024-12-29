@@ -1,9 +1,14 @@
-.fContainer {
+       .fContainer {
             width: 100%;
             background-color: #f8f9fa; /* Light background color for the footer */
             padding: 40px 20px; /* Top and side padding */
             text-align: center;
             box-sizing: border-box;
+        }
+       .fInnerContainer {
+            max-width: 1200px;
+            margin: 0 auto; /* Centering the content */
+            text-align: center;
         }
         .fContainer1, .fContainer2 {
             margin-top: 20px;
