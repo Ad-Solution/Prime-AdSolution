@@ -1,0 +1,31 @@
+.fContainer {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .fContainer1, .fContainer2 {
+            margin-top: 20px;
+        }
+        .fBox1 {
+            margin-bottom: 15px;
+        }
+        .fIcon1 {
+            font-size: 24px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        .fBox3 a {
+            text-decoration: none;
+            color: #555;
+            margin: 0 10px;
+            font-size: 30px;
+            transition: color 0.3s ease;
+        }
+        .fBox3 a:hover {
+            color: #007bff; /* Hover color */
+        }
+        .fBox2 {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
